@@ -1,9 +1,9 @@
 ### 👋Hi, I'm Ubaid Ali Khan
 
-• 🎓 I'm a Data Analyst and continue learning.<br/>
-• 📊 I'm a fan of creating visuals to make Data-Driven Decisions.<br/>
-• 🌐 You can view more about me here: https://ubaidalikhan.carrd.co/ <br/>
-• ⚡I'm also a Mathematician, a teacher and sometimes a footballer too.<br/>
+• 🎓 I'm a Data Scientist and continue learning.<br/>
+• 📊 I'm a fan of creating visuals to make Data-Driven Decisions and to deploy machine learning models to make predictions.<br/>
+• 🌐 You can view more about me here: (https://mavenanalytics.io/profile/Ubaid%20Ali-Khan/159494920) <br/>
+• ⚡I'm also a Mathematician, a teacher, and sometimes a footballer too.<br/>
 
 
 <!--
