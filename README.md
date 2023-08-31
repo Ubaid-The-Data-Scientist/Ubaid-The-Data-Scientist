@@ -25,7 +25,7 @@
 ### My latest projects
 <a href="https://github.com/Ubaid-The-Data-Scientist/Dashboards">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid-the-data-scientist&repo=Dashboards&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid-the-data-scientist&repo=Dashboards&theme=tokyonight" />
 </a>    
 
 
