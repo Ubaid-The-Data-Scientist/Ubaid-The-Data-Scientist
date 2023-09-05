@@ -44,9 +44,12 @@
 
 ### My latest projects
 <a href="https://github.com/Ubaid-The-Data-Scientist/Pizza-Sales-PowerBI-Dashboard">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid-the-data-scientist&repo=Pizza-Sales-PowerBI-Dashboard&theme=tokyonight" />
 </a>    
+
+<a href="https://github.com/Ubaid-The-Data-Scientist/Space-Missions-Excel-Report">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid-the-data-scientist&repo=Space-Missions-Excel-Report&theme=tokyonight" />
+</a>   
 
 
 
