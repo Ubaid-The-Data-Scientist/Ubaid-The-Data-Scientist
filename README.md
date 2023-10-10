@@ -51,6 +51,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid-the-data-scientist&repo=Space-Missions-Excel-Report&theme=tokyonight" />
 </a>   
 
+<a href="https://github.com/Ubaid-The-Data-Scientist/SQL-Music-Stream-Service-Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ubaid-the-data-scientist&repo=SQL-Music-Stream-Service-Analysis&theme=tokyonight" />
+</a>   
+
 
 
 <h3 align="left">Stats:</h3>
