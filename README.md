@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/Ubaid-The-Data-Scientist/My-Resources/blob/fffa9c6b3a2d1b79dc6e6b475c1a3f442874fdfc/LinkedIn-Banner.png)
 ![MasterHead](https://github.com/Ubaid-The-Data-Scientist/My-Resources/blob/4b6eb65a242a56fd0e4bcda8ed9d79752a16458f/Ubaid%20Ali%20Khan.png)
 <h1 align="center"></h1>
 <h3 align="center"></h3>
