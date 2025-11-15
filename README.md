@@ -1,33 +1,41 @@
-![MasterHead](https://github.com/Ubaid-The-Data-Scientist/My-Resources/blob/fffa9c6b3a2d1b79dc6e6b475c1a3f442874fdfc/LinkedIn-Banner.png)
-<h1 align="center"></h1>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <h3 align="center"></h3>
 <h3 align="left">About Me:</h3>
-- 🎓 I'm an **AI Engineer**, lean towards Agentic AI.<br/>
-- 🌱 Ask me about Python, AI, ML.
-- ⚡ I'm also a **Mathematician**, a **teacher**, and sometimes a **footballer** too.
-
-
-
-
+- 🎓 I'm an <b>AI Engineer<b/>, lean towards Agentic AI.<br/>
+- 🌱 Ask me about Python, AI, ML.<br/>
+- ⚡ I'm also a Mathematician, a teacher, and sometimes a footballer too.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/ubaid-the-data-scientist">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" width="32" height="32"/>
+         <a href="https://www.linkedin.com/in/ubaid-the-data-scientist">
+         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
          <a href="mailto:ubaidalikhan247@gmail.com">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" width="32" height="32"/>
+         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
          </a>
+        <!--     
          <a href="https://kaggle.com/ubaidalikhan" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ubaidalikhan" height="20" width="20" />
+        <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="ubaidalikhan" height="20" width="20" />
         </a>
          <a href="">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg" width="32" height="32"/>
+         -->
          </a>
          <a href="tel:+923156447006">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" width="32" height="32"/>
+         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
          </a>
 </p>
+<!--
+![MasterHead](https://github.com/Ubaid-The-Data-Scientist/My-Resources/blob/fffa9c6b3a2d1b79dc6e6b475c1a3f442874fdfc/LinkedIn-Banner.png)
+<h1 align="center"></h1>
+-->
+
+
+
+
+
+
+
 
 
 
