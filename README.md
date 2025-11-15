@@ -1,16 +1,9 @@
 ![MasterHead](https://github.com/Ubaid-The-Data-Scientist/My-Resources/blob/fffa9c6b3a2d1b79dc6e6b475c1a3f442874fdfc/LinkedIn-Banner.png)
-![MasterHead](https://github.com/Ubaid-The-Data-Scientist/My-Resources/blob/4b6eb65a242a56fd0e4bcda8ed9d79752a16458f/Ubaid%20Ali%20Khan.png)
 <h1 align="center"></h1>
 <h3 align="center"></h3>
 <h3 align="left">About Me:</h3>
 
-- 🎓 I'm a **Data Scientist** and continue learning.<br/>
-- 🌱 I’m currently getting my hands dirty on **Machine Learning**
-- 📊 I'm a fan of creating visuals to make Data-Driven Decisions and to deploy machine learning models to make predictions.<br/>
-- 💬 Ask me about **Excel, SQL, Python, Power BI,**
-  
-- 👨‍💻 All of my projects are available here: [My Projects](https://mavenanalytics.io/profile/Ubaid-Ali-Khan/159494920?index&view=projects)
-- ⚡ I'm also a **Mathematician**, a **teacher**, and sometimes a **footballer** too.
+
 
 
 
@@ -65,6 +58,13 @@
 </p>
 
 <!--
+- 🎓 I'm an **AI Engineer**, lean towards Agentic AI.<br/>
+- 🌱 I’m currently getting my hands dirty on **Machine Learning**
+- 📊 I'm a fan of creating visuals to make Data-Driven Decisions and to deploy machine learning models to make predictions.<br/>
+- 💬 Ask me about **Excel, SQL, Python, Power BI,**
+  
+- 👨‍💻 All of my projects are available here: [My Projects](https://mavenanalytics.io/profile/Ubaid-Ali-Khan/159494920?index&view=projects)
+- ⚡ I'm also a **Mathematician**, a **teacher**, and sometimes a **footballer** too.
 **Ubaid-The-Data-Scientist/Ubaid-The-Data-Scientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
