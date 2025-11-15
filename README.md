@@ -2,6 +2,9 @@
 <h1 align="center"></h1>
 <h3 align="center"></h3>
 <h3 align="left">About Me:</h3>
+- 🎓 I'm an **AI Engineer**, lean towards Agentic AI.<br/>
+- 🌱 Ask me about Python, AI, ML.
+- ⚡ I'm also a **Mathematician**, a **teacher**, and sometimes a **footballer** too.
 
 
 
